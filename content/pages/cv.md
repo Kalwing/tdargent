@@ -1,7 +1,7 @@
 Title: Curiculum Vitae
 date: 2020-07-08
 Slug: cv
-
+lang: en
 
 * May 2019 — July 2019 | **LIVIA Internship** (3 months)  
     LIVIA Laboratory — École de technologie supérieure (ÉTS), Montréal, Quebec 🇨🇦  
