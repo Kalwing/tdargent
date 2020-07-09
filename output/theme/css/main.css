@@ -1,0 +1,221 @@
+/* html {
+    background-image: linear-gradient(to bottom, transparent 0px, transparent 19px, red 19px, red 20px);
+    background-size: 100% 1.25em;
+    background-position: 0 6px;
+} */
+html {
+    overflow-y: scroll;
+}
+body {
+    /*https://css-tricks.com/snippets/css/font-stacks/*/
+    font-family: Frutiger, Univers, "Gill Sans", "Gill Sans MT","Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "Ubuntu", sans-serif;
+    color: #02334a;
+    background-color:#faf1f6;
+    line-height: 1.25em;
+}
+h1, nav, h2, h3 {
+    font-family: "Playfair display", "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+}
+h1 {
+    font-size: 3.375em;
+    line-height: 0.833em;
+}
+h2 {
+    font-size: 2.25em;
+    line-height: 0.833em;
+}
+h3, .posts a {
+    font-size: 1.5em;
+    line-height: 1.25em;
+}
+h4 {
+    font-size: 1em;
+    line-height: 1.25em;
+    font-weight: bold;
+}
+a {
+    color:#056E90;
+}
+     a:visited {
+        color:#4f5a96;
+    }
+.container {
+        max-width: 37em;
+        margin: 0 auto;
+}
+.centered-container {
+    width: 75vw;
+    overflow-x: auto;
+    padding: 0 0.5em;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+time {
+    color: #5a727d;
+    font-weight: lighter;
+}
+
+.w1 {color: rgb(230,159,0);}
+.w2 {color: rgb(86,180,233);}
+.w3 {color: rgb(0,158,115);}
+.w4 {color: rgb(204,121,167);}
+.w5 {color: rgb(0,114,178);}
+.w6 {color: rgb(213,94,0);}
+.w7 {color: rgb(240,228,66);}
+
+footer {
+    border-top: dotted 1px #99bccc;
+    color:  #49606b;
+    padding: 2.5em 0;
+    text-align: center;
+    margin-top: 2.5em;
+}
+/* Menu */
+nav {
+    border-bottom: solid 1px #02334a;
+}
+    nav a {
+        text-decoration: none;
+    }
+        nav h1 {
+            display: inline-block;
+            font-weight: bold;
+            margin-bottom: 0;
+            line-height: 0.556em;
+        }
+        nav h1 a, nav h1 a:visited {
+            color: inherit;
+        }
+        .subtitle {
+            display: inline-block;
+            font-weight: lighter;
+            font-size: 0.6666em; /* 1/1.5 */
+            margin-left: 0.25em;
+        }
+    nav li {
+        display: inline-block;
+    }
+    nav ul {
+        padding: 0;
+    }
+        nav li+li::before{
+            content: "–";
+            margin: 0 0.5em;
+        }
+        nav li a:visited, nav li a {
+            color: #056E90;
+    }
+
+/* Articles */
+img {
+    display: block;
+    margin: 0 auto;
+}
+pre {
+    font-family: "MonoLisa", "Fira Code", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", monospace;
+    font-size: 0.8em;
+    width: 100%;
+    overflow: auto;
+    word-wrap: normal;
+    white-space: pre;
+    max-height: 75vh;
+}
+.simple-footnotes {
+    border-top: solid 1px #02334a;
+    padding-top: 1em;
+}
+.article h1 {
+    margin-bottom: 0.333em;
+}
+.article time {
+    margin: 0em 0 0 0;
+}
+.article .est {
+    margin: 0 0 3em;
+}
+
+/* Index */
+.posts li {
+    margin-top: 1.25em;
+}
+    .posts time {
+        margin-left: 1.5em;
+    }
+    .posts a {
+        text-decoration: none;
+    }
+    .posts p {
+        margin: 0;
+        max-width: 25em;
+    }
+    .est {
+        color: #5a727d;
+        font-weight: lighter;
+    }
+    
+/* Notebook and DS */
+pre {
+    border: solid 1px #02334a;
+    border-radius: 3px;
+    padding: 0.25em;
+    background-color: rgba(255,255,255,0.5);
+}
+.anchor-link {
+    opacity: 0.5;
+    font-family: sans-serif;
+    font-size: 0.666em;
+    margin-left: 0.5em;
+    text-decoration: none;
+}
+    .anchor-link:hover {
+        opacity: 1;
+    }
+/* table:: {
+   position: relative;
+   max_width: 40em;
+   left: auto;
+} */
+table {    
+    border: solid 1px #02334a;
+    border-radius: 3px;
+    padding: 2px;
+    background-color: rgba(255,255,255,0.5);
+    border-spacing: 0;
+    margin: 1em auto;
+}
+    td {
+        padding: 0 0.25em;
+    }
+    thead tr th {
+        border: none;
+        border-bottom: solid 1px #02334a;
+        text-align: center!important;
+        padding: 0 0.5em;
+    }
+    tbody tr td{
+        border: none;
+        border-bottom: solid 1px #99bccc;
+    }
+        tbody tr td+td{
+            border-bottom: solid 1px #99bccc;
+        }
+    tbody tr th{
+        border: none;
+        padding: 0 0.5em;
+        border-right: solid 1px #02334a;
+        border-bottom: solid 1px #99bccc;
+    }
+.prompt {
+    color:  #99bccc;
+}
+    
+/* About */
+.side-pic {
+    float: left;
+    border-radius: 50%;
+    max-width: 25%;
+    margin-right: 1em;
+    shape-outside: circle(50%);
+}
