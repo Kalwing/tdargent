@@ -30,19 +30,19 @@ MARKUP = ("md", "ipynb")
 PLUGIN_PATHS = ['pelican-plugins/']
 PLUGINS = [
     # 'i18n_subsites',
-    # 'series',
-    # 'tag_cloud',
     # 'video_privacy_enhancer',
     nb_markup,
     nb_liquid,
-    'render_math',
     'similar_posts',
     'simple_footnotes',
     'deadlinks',
-    # 'css-html-js-minify',
+    'css-html-js-minify',
     # 'optimize_images',
+    # 'gzip_cache',
     'pelican-cite',
-    'readtime'
+    'render_math',
+    'readtime',
+    'pelican_javascript'
 ]
 IGNORE_FILES = ['.ipynb_checkpoints', 'notebooks']
 IPYNB_MARKUP_USE_FIRST_CELL = True
@@ -54,7 +54,7 @@ LIQUID_CONFIGS = (
 
 DEADLINK_VALIDATION = True
 
-PUBLICATIONS_SRC = 'content/pubs.bib'
+PUBLICATIONS_SRC = 'content/pub.bib'
 # Appearance
 THEME = 'themes/moineau'
 # DEFAULT_PAGINATION = False

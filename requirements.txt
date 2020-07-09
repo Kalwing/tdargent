@@ -1,0 +1,9 @@
+pelican[Markdown]==4.2.0
+typogrify==2.0.7
+jupyter==1.0.0
+pelican_jupyter==0.10.0
+gensim==3.8.3
+html5lib==1.1
+bs4==4.9.1
+css-html-js-minify==2.5.5
+pybtex==0.18 
