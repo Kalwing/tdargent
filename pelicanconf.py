@@ -12,6 +12,7 @@ SITEURL = ''
 
 PATH = 'content'
 STATIC_PATHS = ['content/img']
+DELETE_OUTPUT_DIRECTORY = True
 
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'en'
