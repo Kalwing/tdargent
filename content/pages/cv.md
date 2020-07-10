@@ -15,7 +15,7 @@ lang: en
     * *Machine Learning*: Naive Bayes, Parzen, KNN, Decision Tree, SVM, Kernel Machine
     * *Computer Vision*
 
-* 2018 - 2019 | **Technical Team Coordinator** (11 months)  
+* 2018 — 2019 | **Technical Team Coordinator** (11 months)  
     Francas de Seine Maritime 🇫🇷  
     *Following my civic service, I was recruited by the associations to lead the technical team projects for a year.*
     * Conducting "hacker spaces" type workshops for pre-teens and teenagers.
@@ -34,11 +34,16 @@ lang: en
     * *Databases*: Relational databases, SQL, MySQL
     * *Signals & Pictures*: Random signals & filters, Image analysis and processing.
   
-* 2018 - 2019 | **Civic Service: Technical counseling** (11 months)  
+* 2018 — 2019 | **Civic Service: Technical counseling** (11 months)  
     Francas de Seine Maritime 🇫🇷  
     * *Child Counseling and Popular Education*: Teaching technology workshop for childrens (8 to 15 years old), 4 of our teams did the Eurobot Junior
-    * *Research and Development*: InMoov, 3D printers, A system for children to control humanoid robo (Named OEHBI later).enclosing
-    * Developing administration features (Backend Django and Frontend VueJs).
+    * *Research and Development*: InMoov, 3D printers, A system for children to control humanoid robo (Named OEHBI later).
+  
+* June 2018 — July 2018 | **INKS Internship** (2 months)  
+    Joint laboratory between LITIS and Hamelin 🇫🇷  
+    *Voluntary internship. The project was to have a web base administration system for an OCR (correcting it's mistakes, seeing the output...). I had to work on the logging system.*
+    * *Added a logging system*: ELK stack.
+    * *Developing administration features*: Backend Django and Frontend VueJs.
 
 *  2017 — 2018 | **Licence EEEA 2nd year**  
     Université de Rouen Normandie, campus du Madrillet 🇫🇷  
