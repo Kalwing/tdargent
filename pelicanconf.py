@@ -8,7 +8,7 @@ import pelican_youtube
 AUTHOR = 'Thomas Dargent'
 SITENAME = 'Thomas Dargent'
 SITESUBTITLE = 'Data Scientist'
-SITEURL = ''
+SITEURL = 'thomasdargent.com'
 
 PATH = 'content'
 STATIC_PATHS = ['content/img']
