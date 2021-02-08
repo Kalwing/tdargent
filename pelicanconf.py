@@ -28,13 +28,13 @@ SECTIONS = [
 
 MARKUP = ("md", "ipynb")
 
-PLUGIN_PATHS = ['pelican-plugins/', 'special_plugins/']
+PLUGIN_PATHS = ['pelican-plugins/']
 PLUGINS = [
     # 'i18n_subsites',
     # 'video_privacy_enhancer',
     nb_markup,
     nb_liquid,
-    'similar-posts',
+    'similar_posts',
     'simple_footnotes',
     'deadlinks',
     'css-html-js-minify',
