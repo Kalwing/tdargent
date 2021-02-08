@@ -12,4 +12,4 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
-        script: cd pelican; git pull
+        script: cd pelican; git pull; workon default; pelican content
