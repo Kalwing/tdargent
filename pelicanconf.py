@@ -34,7 +34,7 @@ PLUGINS = [
     # 'video_privacy_enhancer',
     nb_markup,
     nb_liquid,
-    'similar_posts',
+    'similar-posts',
     'simple_footnotes',
     'deadlinks',
     'css-html-js-minify',
