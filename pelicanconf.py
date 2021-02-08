@@ -28,7 +28,7 @@ SECTIONS = [
 
 MARKUP = ("md", "ipynb")
 
-PLUGIN_PATHS = ['pelican-plugins/']
+PLUGIN_PATHS = ['pelican-plugins/', 'special_plugins/']
 PLUGINS = [
     # 'i18n_subsites',
     # 'video_privacy_enhancer',
