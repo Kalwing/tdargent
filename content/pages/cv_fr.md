@@ -5,8 +5,8 @@ lang: fr
 
 * 2021 - 2021 | **Stage au CREATIS** (6 mois)  
     Campus DOUA, laboratoire CREATIS, Villeurbanne 🇫🇷  
-    Quantification en 3D de la forme et de la déformation du ventricule droit à partir de séquences cardiaques:  
-    *Sous la supervision de Nicolas Duchateau et Gabriel Bernardino de l'équipe MYRIAD.*
+    *Sous la supervision de Nicolas Duchateau et Gabriel Bernardino de l'équipe MYRIAD.*  
+    Quantification en 3D de la forme et de la déformation du ventricule droit à partir de séquences cardiaques  
 
 * 2020 - 2021 | **Master SID 2ème année : Parcours de la science des données**  
     Université de Rouen Normandie, campus du Madrillet 🇫🇷  

@@ -3,7 +3,6 @@ date: 2020-07-08
 Slug: cv
 lang: en
 
-
 * 2021 — 2021  | **CREATIS Internship** (6 months)  
     DOUA campus, CREATIS lab, Villeurbanne 🇫🇷  
     3D quantification of right ventricular shape and deformation from cardiac mesh sequences:  
@@ -35,7 +34,7 @@ lang: en
     *Following my civic service, I was recruited by the associations to lead the technical team projects for a year.*
     * Conducting "hacker spaces" type workshops for pre-teens and teenagers.
     * Management of projects developed within the association (humanoid robot, ESP-based pedagogical tools...)
-
+ 
 * May 2019 — July 2019 | **LITIS Internship** (3 months)  
     LITIS Laboratory — EA4108 🇫🇷  
     *Internship marking the end of my undergraduate diploma.*
@@ -48,12 +47,12 @@ lang: en
     * *Automation*: Linear System, Laplace transform, PID controller
     * *Databases*: Relational databases, SQL, MySQL
     * *Signals & Pictures*: Random signals & filters, Image analysis and processing.
-
+  
 * 2018 — 2019 | **Civic Service: Technical counseling** (11 months)  
     Francas de Seine Maritime 🇫🇷  
     * *Child Counseling and Popular Education*: Teaching technology workshop for childrens (8 to 15 years old), 4 of our teams did the Eurobot Junior
     * *Research and Development*: InMoov, 3D printers, A system for children to control humanoid robo (Named OEHBI later).
-
+  
 * June 2018 — July 2018 | **INKS Internship** (2 months)  
     Joint laboratory between LITIS and Hamelin 🇫🇷  
     *Voluntary internship. The project was to have a web base administration system for an OCR (correcting it's mistakes, seeing the output...). I had to work on the logging system.*
@@ -73,6 +72,6 @@ lang: en
     * *Algorithmics : Imperative Programming Methodology*: Hoare logic, Complexity, Basic data structures, C language
     * *Electricity & Electromagnetism*: Kirchnoff laws, Thévenin / Norton
 
-*  August 2016 | **Summer Job**  
+*  August 2016 | **Summer Job**
     Antenne Normandie 🇫🇷  
     * Setting Up a Network of Security Cameras
