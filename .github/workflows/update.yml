@@ -16,6 +16,5 @@ jobs:
           cd pelican
           rm -rf output/*
           git pull
-          workon default
-          pelican content
+          ~/Envs/default/bin/pelican content
           date | cat > last_github_action
