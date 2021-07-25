@@ -61,7 +61,7 @@ lang: en
     </span>
     <p class="place">“Francas de Seine Maritime”, St-Étienne-du-Rouvray, France 🇫🇷</p>
     <ul>
-        <li> Following my civic service, I was recruited by the associations to lead the technical team projects for a year.</li>
+        <li> Following my civic service, I was recruited by the organization to lead the technical team projects for a year.</li>
         <li>Conducting "hacker spaces" type workshops for pre-teens and teenagers.</li>
         <li><b>Technical team coordinator (september 2019 - june 2020):</b> Management
              of a team of 3 to 6 people, internship mentoring (3 interns for 2 months), development of many projects (humanoid robot, ESP, Drones, 3D printers...)</li>

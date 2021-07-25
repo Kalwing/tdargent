@@ -3,75 +3,169 @@ date: 2020-07-08
 Slug: cv
 lang: fr
 
-* 2021 - 2021 | **Stage au CREATIS** (6 mois)  
-    Campus DOUA, laboratoire CREATIS, Villeurbanne 🇫🇷  
-    *Sous la supervision de Nicolas Duchateau et Gabriel Bernardino de l'équipe MYRIAD.*  
-    Quantification en 3D de la forme et de la déformation du ventricule droit à partir de séquences cardiaques  
+### Professional experience 
+<ul class="cv">
+<li>
+   <span class="datecont">
+        <h4><span>
+                <span class="light">Stage de M2:</span><br/>
+                Quantification de la déformation sur des séquences de maillages de ventricule droit
+            </span>
+        </h4>
+        <span class="date">Mars-Août 2021 (6 mois)</span>
+    </span>
+    <p class="place">CREATIS laboratory (CNRS UMR 5220, INSERM U1294, Université Lyon 1, INSA Lyon, Université Jean Monnet Saint-Etienne) 🇫🇷</p>
+    <ul>
+        <li><b>Evaluation de la déformation:</b>Actuellement, il n'y a pas de consensus
+             sur la quantification de la déformation du ventricule droit. Notre objectif était de mettre en œuvre des
+             méthodes de l'état de l'art, afin d'évaluer l'impact de chaque méthode et sa
+             stabilité sous le bruit.</li>
+        <li><b>Perspectives:</b> Le travail effectué pendant ce stage pourra être
+            utilisé pour faire un document de consensus entre les chercheurs et l'industrie par mes tuteurs, Dr.&nbsp;Nicolas Duchateau et Dr.&nbsp;Gabriel Bernardino.</li>
+    </ul>
+</li>
 
-* 2020 - 2021 | **Master SID 2ème année : Parcours de la science des données**  
-    Université de Rouen Normandie, campus du Madrillet 🇫🇷  
-    * *Analyse de Graphes* : Introduction, Isomorphisme de graphe et algorithmes de matching, Classification...
-    * *Traitement d'Images Médicales* : Modalités d'acquisition des images, extraction de caractéristiques, segmentation
-    * *Apprentissage par Renforcement* : Équations de Bellman, méthodes de Monte Carlo, différence temporelle
-    * *Fusion et multi-modalité* : Systèmes de classifieurs multiples, Ensemble de classifieurs (bagging, boosting, ECOC, forêts...)
-    * *Récupération de textes et d'images* : Recherche de données dans une base correspondant à une requête.
-    * *High Performance Computing* : OpenMP, programmation GPU
 
-* Mai 2020 — Juillet 2020 | **Stage au LIVIA** (3 mois)  
-    Laboratoire LIVIA — École de technologie supérieure (ÉTS), Montréal, Québec 🇨🇦  
-    *Sous la supervision du Pr. Ismael Ben Ayed et de Hoel Kervadec, mon stage porte sur la segmentation des organes dans des scénarios faiblement supervisés. En se basant sur leurs travaux, l'objectif est d'étendre l'utilisation des contraintes sur les boîtes englobantes à la 3D.*
+<li>
+    <span class="datecont">
+        <h4><span>
+                <span class="light">Stage de M1:</span><br/>
+                Segmentation automatique d'image faiblement supervisées
+            </span>
+        </h4>
+        <span class="date">Juin-Août 2020 (3 mois)</span>
+    </span>
+    <p class="place">Laboratoire LIVIA, ÉTS Montréal, Canada 🇨🇦</p>
+    <ul>
+        <li><b>Deep learning avec loss géometriquement contraintes:</b>
+            Sur la base des travaux antérieurs du Pr.&nbsp;Ismail Ben Ayed et du Dr.&nbsp;Hoel Kervadec, nous avons étendu l'utilisation des contraintes sur les boîtes englobantes à la 3D.
+            Leurs travaux précédents utilisaient des contraintes géométriques imposée sous forme de pénalités dans la loss
+            d'un CNN pour segmenter des organes qui étaient faiblement supervisés (seulement une portion
+            des pixels
+            étiquetés, boîtes englobantes...). Nous avons testé si leurs résultats fonctionnaient toujours lorsque la boîte englobante était définie en 3D, et pour la segmentation multi-organes. </li>
+        <li><b>Bourse de recherche UNIQUE-Mitacs Globalink</b></li>
+    </ul></li>
 
-* 2019 — 2020 | **Master SID 1ère année: Parcours science des données**  
-    Université de Rouen Normandie, campus du Madrillet 🇫🇷  
-    * *Optimisation* : Optimisation sans contraintes, méthodes de descente (Gradient, Newton)
-    * *Statistique et analyse de données* : Clustering, PCA...
-    * *Programmation orientée objet* : Interface graphique avec JavaFX, MVC
-    * *Machine Learning* : Naive Bayes, Parzen, KNN, Arbre de décision, SVM, Machine à noyaux
-    * *Vision par ordinateur*
 
-* 2018 — 2019 | **Coordinateur de l'équipe technique** (11 mois)  
-    Francas de Seine Maritime 🇫🇷  
-    *Après mon service civique, j'ai été recruté par l'association pour diriger les projets de l'équipe technique pendant un an.*
-    * Animation d'ateliers de type "hacker spaces" pour les pré-adolescents et les adolescents.
-    * Gestion des projets développés au sein de l'association (robot humanoïde, outils pédagogiques basés sur l'ESP...)
+<li>
+   <span class="datecont">
+        <h4><span>
+            Animateur Jeunesse/Coordinateur
+            </span>
+        </h4>
+        <span class="date">2019-2020 (1 an)</span>
+    </span>
+    <p class="place">«Francas de Seine Maritime», St-Étienne-du-Rouvray, France 🇫🇷</p>
+    <ul>
+        <li> Suite à mon service civique, j'ai été recruté par l'association pour diriger les projets techniques pour un an.</li>
+        <li>Direction d'atelier type "hacker spaces" pour adolescents et pré-adolescents.</li>
+        <li><b>Coordinateur équipe technique (septembre 2019 - juin 2020):</b> Management d'une équipe de 3 à 6 personnes, tutorat de stage (3 stagiaires pour 2 mois), développement de plusieurs projets (robot humanoïde, ESP, drones, imprimantes 3D...)</li>
+    </ul>
+</li>
 
-* Mai 2019 — Juillet 2019 | **Stage au LITIS** (3 mois)  
-    Laboratoire LITIS — EA4108 🇫🇷  
-    *Stage marquant la fin de mon diplôme de licence.*  
-    * *Entrainement d'un OCR sur un ensemble de données manuscrites* : Utilisation d'une bibliothèque du laboratoire (OCR CTC) basée sur Keras.
-    * *Évaluer la capacité d'adaptation d'un modèle d'apprentissage profond à des auteurs spécifiques* : Utilisation d'un réseau de CNN et de BLSTM, régularisation L2-SP, augmentation des données (Elastic distortion).
+<li>
+    <span class="datecont">
+        <h4><span>
+                <span class="light">Stage L3:</span><br/>
+                Reconnaissance d'écriture
+            </span>
+        </h4>
+        <span class="date">Avril-Juillet 2019 (3 mois)</span>
+    </span>
+    <p class="place">Laboratoire LITIS EA 4108, Université Rouen Normandie 🇫🇷</p>
+    <ul>
+        <li><b>Entraînement d'un OCR sur un jeu de données manuscrites:</b>
+            Suite à mon stage de M2, j'ai utilisé une librairie du laboratoire (OCR CTC, par Dr.&nbsp;Yann Soullard)
+            basée sur Keras, pour entrainer un OCR comme celui dont j'obtenais les résultats.</li>
+        <li><b>Évaluation de la capacité d'adaptation d'un modèle d'apprentissage profond à des auteurs spécifiques</b>
+        Nous nous sommes demandés s'il était possible d'entraîner un modèle de manière à améliorer ses résultats sur un scripteur spécifique, avec peu d'exemples.
+        Les résultats n'étaient pas concluants. Nous avons utilisé un CNN et un BLSTM,
+        une régularisation L2-SP, de l'augmentation des données (distorsion élastique). - <a href="http://thomasdargent.com/stage-l3">thomasdargent.com/stage-l3</a>
+        </li>
+    </ul>
+</li>
+<li>
+    <span class="datecont">
+        <h4><span>
+            Animateur Jeunesse
+            </span>
+        </h4>
+        <span class="date">2018-2019 (1 year)</span>
+    </span>
+    <p class="place">Association «Francas de Seine Maritime», St-Étienne-du-Rouvray, France 🇫🇷</p>
+    <ul>
+        <li><b>Animation et éducation populaire :</b>
+            Atelier technologiques hebdomadaires for adolescents et pré-adolescents (8 à 15 ans)
+            4 de nos équipes ont fait l'Eurobot Junior, une competition de robotique.</li>
+        <li><b>Recherche et développement</b>: InMoov, imprimantes 3D, une interface de controle de robot humanoide pour enfant (appelée OEHBI par la suite).</li>
+    </ul>
+</li>
+<li>
+    <span class="datecont">
+        <h4><span>
+            <span class="light">Stage L2:</span><br/> Web/Science des données
+            </span>
+        </h4>
+        <span class="date">Juin-Juillet 2018 (2 mois)</span>
+    </span>
+    <p class="place">Laboratoire commun entre le LITIS (EA 4108) et la société HAMELIN</p>
+    <ul>
+        <li><b>Stage volontaire:</b>
+            Le projet était d'avoir une interface web pour un OCR (corriger ses erreurs,voir ses sorties...). J'ai eu à travailler sur le système de journalisation.</li>
+        <li><b>Ajout d'un système de journalisation et développement de fonctionnalité d'administration:</b>
+            ELK, VueJS & Django
+        </li>
+    </ul>
+</li>
 
-* 2018 — 2019 | **Licence 3 EEEAII**  
-    Université de Rouen Normandie, campus du Madrillet 🇫🇷  
-    * *Transmission et réseau* : Modèle OSI, TCP/IP, I2C, USB, KNX, CAN...
-    * *Automatisation* : Système linéaire, transformée de Laplace, contrôleur PID
-    * *Bases de données* : Bases de données relationnelles, SQL, MySQL
-    * *Signal et images* : Signaux et filtres aléatoires, Analyse et traitement d'images.
+<li>
+    <span class="datecont">
+        <h4><span>
+            Job d'été
+            </span>
+        </h4>
+        <span class="date">Août 2016</span>
+    </span>
+    <p class="place">Antenne Normandie 🇫🇷  </p>
+    <ul><li>Mettre en place des réseaux de caméras de sécurité</li></ul>
+</li>
 
-* 2018 — 2019 | **Service civique: Animateur technique** (11 mois)  
-    Francas de Seine Maritime 🇫🇷  
-    * *Conseils aux enfants et éducation populaire* : Atelier de technologie pédagogique pour les enfants (8 à 15 ans), 4 de nos équipes ont fait l'Eurobot Junior
-    * *Recherche et développement* : InMoov, imprimantes 3D, Un système pour enfants pour contrôler les robots humanoïdes (nommé OEHBI plus tard).
+</ul>
+### Éducation 
+<ul class="cv">
+<li><h4>Master «Science et ingénierie des données» parcours science des données</h4>
+    <p class="place">Université de Rouen Normandie, France</p>
+    <ul>
+        <li class="nodot">
+            <span class="datecont">
+                <b>2eme année:</b><span class="date">2020-2021</span>
+            </span>
+            <ul>
+                <li>Laureat de la <b>«Graduate School MINMACS»</b></li>
+                <li><b>Projet semestriel:</b> “Explainability of CNNs’ predictions of a child's age from a hand X-ray”</li>
+            </ul>
+        </li>
+        <li class="nodot">
+            <span class="datecont">
+                <span><b>1re année: &nbsp;</b>3eme de promotion</span><span class="date">2019-2020</span>
+            </span>
+            <ul>
+                <li><b>Projet du premier semestre:</b> “Weakly supervised image segmentation” - <a href="http://thomasdargent.com/TER1_M1">thomasdargent.com/TER1_M1</a></li>
+                <li><b>Projet du second semestre:</b> “Image segmentation with prior knowledge” - <a href="http://thomasdargent.com/TER2_M1">thomasdargent.com/TER2_M1</a></li>
+            </ul>
+        </li>
+    </ul>
+</li>
+<li>
+    <span class="datecont">
+        <h4>Licence «EEEA Informatique Industrielle»</h4>
+        <span class="date">2016-2019</span>
+    </span>
+    <p class="place">Université de Rouen Normandie, France</p>
+    <ul>
+        <li><b>Projet:</b> «Creation d'une interface de contrôle pour le robot InMoov» - <a href="http://thomasdargent.com/TER_l3">thomasdargent.com/TER_l3</a></li>
+    </ul>
 
-* Juin 2018 — Juillet 2018 | **Stage INKS** (2 mois)  
-    Laboratoire commun entre le LITIS et Hamelin 🇫🇷  
-    *Stage volontaire. Le projet consistait à mettre en place un système d'administration web pour un OCR (corriger ses erreurs, voir les résultats...). Je devais travailler sur le système de journalisation.*
-    * *Ajout d'un système de journalisation* : ELK stack.
-    * *Développement de fonctionnalités d'administration* : Backend Django et Frontend VueJs.
 
-* 2017 — 2018 | **Licence 2 EEEA**  
-    Université de Rouen Normandie, campus du Madrillet 🇫🇷  
-    * *Acquisition de donnée* : Séries de Fourier, Quantification, Echantillonnage
-    * *Algorithmique 2 : Structures récursives et linéaires* : Structures de données (Liste chainée, Table de hachage, Arbres, Tas...), Logique récursive
-    * *Architecture des Micro-contrôleurs* : Arduino
-    * *Base de signal et images* : Transformée de Fourier discrète, produit de convolution
 
-* 2016 — 2017 | **Licence 1 EEEA**  
-    Université de Rouen Normandie, campus du Madrillet 🇫🇷  
-    * *Traitement de l'information numérique* : Architectures des systèmes d'information, assembleur, algèbre booléenne, base de VHDL
-    * *Algorithmique : Méthodologie de la programmation impérative* : Logique de Hoare, Complexité, Structures de données de base, Langage C
-    *Electricité & Electromagnétisme* : Lois de Kirchnoff, Thévenin/Norton
-
-* Août 2016 | **Emploi saisonnier**  
-    Antenne Normandie 🇫🇷  
-    * Mise en place d'un réseau de caméras de sécurité
+</ul>

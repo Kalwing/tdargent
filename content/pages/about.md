@@ -7,8 +7,8 @@ lang: en
 
 <img alt="Photo of me" src="{static}/img/profile.jpg" class="side-pic">
 
-Hi, I'm **Thomas Dargent** and I'm a *Master Student in Data Science*. I live in Rouen in France, and as such I study in the *Université of Rouen Normandie*.
-I'm interested by *image segmentation* and computer vision for *medical images*. I would also like to learn more about possible *ecological applications* of Machine Learning.
+Hi, I'm **Thomas Dargent** and I'm a *PhD Student* et the *Université of Rouen Normandy* in France.
+I'm interested by *image segmentation* and computer vision for *medical images*. My thesis is about using specificity of ORL cancer to develop *geometricaly constrained losses* and *multitask networks*.
 
 In my free time I like to read about the world, try to do my share of good in it, do sports, cook, and make side projects.
 

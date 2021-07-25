@@ -7,10 +7,10 @@ lang: fr
 
 <img alt="Photo de moi" src="{static}/img/profile.jpg" class="side-pic">
 
-Salut, moi c'est **Thomas Dargent** et je suis étudiant en Master en science des données. Je vis à Rouen en France, et j'étudie donc à l'*Université de Rouen Normandie*.
-Je m'intéresse à la *segmentation d'images* et à la vision par ordinateur pour les *images médicales*. J'aimerais aussi creuser des applications possible du deep learning à l'écologie.
+Salut, moi c'est **Thomas Dargent** et je suis *doctorant* à l'*Université de Rouen Normandie*.
+Je m'intéresse à la *segmentation d'images* et à la vision par ordinateur pour les *images médicales*. Ma thèse vise à utiliser les spécificités des cancer de la zone ORL pour développer des *loss géometriquement contraintes* et des *réseaux multitaches*. 
 
-Pendant mon temps libre j'aime lire des choses sur l'etat de notre monde, essayer d'y faire ma part de bien, faire du sport, cuisiner et réaliser des projets secondaires.
+Pendant mon temps libre j'aime lire des choses sur l'état de notre monde, essayer d'y faire ma part de bien, faire du sport, cuisiner et réaliser des projets créatifs.
 
 J'aime rencontrer des gens et je serais heureux de pouvoir vous aider (mais il se peut que je prenne un peu de temps à vous répondre !). Contactez-moi sur :  
 
