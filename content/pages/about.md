@@ -7,7 +7,7 @@ lang: en
 
 <img alt="Photo of me" src="{static}/img/profile.jpg" class="side-pic">
 
-Hi, I'm **Thomas Dargent** and I'm a *PhD Student* et the *Université of Rouen Normandy* in France.
+Hi, I'm **Thomas Dargent** and I'm a *PhD Student* at the *Rouen Normandy University* in France.
 I'm interested by *image segmentation* and computer vision for *medical images*. My thesis is about using specificity of ORL cancer to develop *geometricaly constrained losses* and *multitask networks*.
 
 In my free time I like to read about the world, try to do my share of good in it, do sports, cook, and make side projects.

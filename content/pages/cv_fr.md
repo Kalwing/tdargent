@@ -19,7 +19,7 @@ lang: fr
         <li><b>Evaluation de la déformation:</b>Actuellement, il n'y a pas de consensus
              sur la quantification de la déformation du ventricule droit. Notre objectif était de mettre en œuvre des
              méthodes de l'état de l'art, afin d'évaluer l'impact de chaque méthode et sa
-             stabilité sous le bruit.</li>
+             stabilité face au bruit.</li>
         <li><b>Perspectives:</b> Le travail effectué pendant ce stage pourra être
             utilisé pour faire un document de consensus entre les chercheurs et l'industrie par mes tuteurs, Dr.&nbsp;Nicolas Duchateau et Dr.&nbsp;Gabriel Bernardino.</li>
     </ul>
